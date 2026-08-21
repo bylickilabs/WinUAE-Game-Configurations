@@ -1,3 +1,6 @@
+| <img width="1280" height="640" alt="UAE" src="https://github.com/user-attachments/assets/1f21224a-e499-4c69-bd8d-0c30b421d94b" /> |
+|---|
+
 | 🕹️ WinUAE Game Configurations |
 |---|
 
