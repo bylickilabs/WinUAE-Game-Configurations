@@ -9,7 +9,7 @@
 [![WinUAE](https://img.shields.io/badge/Emulator-WinUAE-2B2B2B?style=for-the-badge)](https://www.winuae.net/)
 ![Platform](https://img.shields.io/badge/Plattform-Windows-0078D4?style=for-the-badge&logo=windows)
 ![Amiga](https://img.shields.io/badge/System-Amiga%20500-EA4E00?style=for-the-badge)
-![Configs](https://img.shields.io/badge/Configs-4-success?style=for-the-badge)
+![Configs](https://img.shields.io/badge/Configs-5-success?style=for-the-badge)
 
 | Klassische Spiele. Passende Hardwareprofile. Reproduzierbare Emulation. |
 |---|
